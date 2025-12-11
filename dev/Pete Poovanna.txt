@@ -1,0 +1,46 @@
+{{Short description|Indian-born Canadian researcher}}
+{{Draft topics|biography|north-america|earth-and-environment}}
+{{AfC topic|blp}}
+{{AfC submission|||ts=20251211025258|u=Coorgfirst|ns=118}}
+ 	
+{{AFC submission|d|ai|u=Coorgfirst|ns=118|demo=|decliner=Pythoncoder|declinets=20251201210923|ts=20251115102159}} <!-- Do not remove this line! -->
+
+{{Infobox person
+| name        = Pete Poovanna
+| image       = 
+| birth_place = Coorg, Karnataka, India
+| citizenship = Canadian
+| alma_mater  = Simon Fraser University (Ph.D.)
+| occupation  = Writer, sustainability researcher, public speaker
+| known_for   = Electric mobility research; agroforestry; sustainability
+| website     = {{URL|petepoovanna.com}}
+}}
+
+'''Pete Poovanna''' (also published as '''Poovanna Cheppudira Thimmaiah''') is an Indian-born Canadian researcher, writer, and entrepreneur. His research on electric mobility has been cited in policy documents published by the United Nations Economic and Social Commission for Western Asia (UN ESCWA)<ref>United Nations Economic and Social Commission for Western Asia. ''Land Electric Mobility in the Arab Region: Options and Opportunities.'' 2022. Available at: https://www.unescwa.org/sites/default/files/pubs/pdf/land-electric-mobility-arab-region-options-opportunities-english_3.pdf</ref> and in a 2018 climate report presented to the Legislative Assembly of Ontario.<ref>Environmental Commissioner of Ontario. ''Climate Action in Ontario: What's Next? 2018 Greenhouse Gas Progress Report.'' 2018. Available at: https://www.auditor.on.ca/en/content/reporttopics/envreports/env18/Climate-Action-in-Ontario.pdf</ref>
+
+He is a Queen Elizabeth Advanced Scholar, an award administered by Universities Canada and recognized by the Governor General of Canada.<ref>Universities Canada. ''QES Inspiring Futures Scholars.'' 2022. Available at: https://univcan.ca/wp-content/uploads/2022/06/QES-Inspiring-Futures.pdf</ref> Poovanna has authored peer-reviewed research on thermal management and evaporator systems, published in journals including ''Scientific Reports'' and ''Energy''.<ref>Cheppudira Thimmaiah, Poovanna; Panda, Asish Kumar; Pandey, Upendra Kumar; McCague, Claire; Dutta, Pradip; Bahrami, Majid. "A new approach to compute the porosity and surface roughness of porous coated capillary-assisted low-pressure evaporators." ''Scientific Reports'' 8 (2018). https://www.nature.com/articles/s41598-018-30090-9</ref><ref>Thimmaiah, Poovanna Cheppudira; Sharafian, Amir; Rouhani, Mina; Huttema, Wendell; Bahrami, Majid. "Evaluation of low-pressure flooded evaporator performance for adsorption chillers." ''Energy'' 122 (2017): 144. https://www.sciencedirect.com/science/article/pii/S0360544217307913</ref>
+
+== Early life and education ==
+Poovanna was born in Kodagu (Coorg), Karnataka, India. He attended Lions School in Gonikoppal and St. Antony’s School in Ponnampet.<ref>Coorg News. "Coorg-born Poovanna, inventor of new technology, awarded Canadian doctorate." 7 October 2018. Available at: https://www.coorgnews.in/general-news/coorg-born-poovanna-inventor-of-new-technology-awarded-canadian-doctorate/</ref>
+
+He earned a Bachelor’s degree in Mechanical Engineering from Visvesvaraya Technological University and a Master’s degree in Mechanical Engineering from Coventry University in the United Kingdom.<ref>Policy Options. "Author profile: Pete Poovanna." https://policyoptions.irpp.org/authors/pete-poovanna/</ref> He completed a Ph.D. in Mechatronic Systems Engineering at Simon Fraser University.<ref>Coorg News. "Coorg-born Poovanna, inventor of new technology, awarded Canadian doctorate." 7 October 2018.</ref>
+
+== Career ==
+=== Research and engineering ===
+Poovanna's academic research is in the field of thermal systems and two-phase heat transfer, focusing on improving the performance of evaporators. His doctoral research centered on the Capillary-Assisted Low-pressure Evaporator (CALPE, a design aimed at improving the heat transfer rate in adsorption chillers that use water as a refrigerant.<ref name="SFU Thesis">{{cite thesis |title=Development of capillary-assisted low pressure evaporator for adsorption chillers |author=Cheppudira Thimmaiah, Poovanna |date=2018 |publisher=Simon Fraser University |url=https://summit.sfu.ca/item/19075 |type=Ph.D. Thesis}}</ref> This work addresses the limited performance of conventional evaporators in adsorption cooling systems, which are typically driven by low-grade waste heat.
+
+His published work includes studies on porous-coated evaporators and adsorption chillers in journals such as ''Scientific Reports'' and ''Energy''.<ref>Cheppudira Thimmaiah, Poovanna et al. "A new approach to compute the porosity and surface roughness of porous coated capillary-assisted low-pressure evaporators." ''Scientific Reports'' (2018). https://www.nature.com/articles/s41598-018-30090-9</ref><ref>Thimmaiah, Poovanna Cheppudira et al. "Evaluation of low-pressure flooded evaporator performance for adsorption chillers." ''Energy'' (2017). https://www.sciencedirect.com/science/article/pii/S0360544217307913</ref> He is also listed as a co-inventor on a patent application for the Micro Capillary-assisted Low-pressure Evaporator (µCALPE, an advanced design incorporating microchannels and porous coatings to enhance heat transfer, filed through Simon Fraser University.<ref>World Intellectual Property Organization. "Micro Capillary-assisted Low-pressure Evaporator." Patent application WO2019144242A1. https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2019144242</ref>
+
+=== Clean transportation and policy ===
+Poovanna writes on climate action, electric mobility, and decarbonisation, including commentary on Canada’s electric-vehicle transition for ''Policy Options''.<ref>Policy Options. "Electric vehicles as part of Canada's climate change solution." 9 July 2018. https://policyoptions.irpp.org/2018/07/electric-vehicles-as-part-of-canadas-climate-change-solution/</ref> His research has been cited in international and provincial policy documents, including a United Nations ESCWA report on transportation electrification<ref>UN ESCWA. "Land Electric Mobility in the Arab Region: Options and Opportunities." 2022. https://www.unescwa.org/sites/default/files/pubs/pdf/land-electric-mobility-arab-region-options-opportunities-english_3.pdf</ref> and a 2018 climate report presented to the Legislative Assembly of Ontario.<ref>Environmental Commissioner of Ontario. "Climate Action in Ontario: What's Next? 2018 Greenhouse Gas Progress Report." 2018. https://www.auditor.on.ca/en/content/reporttopics/envreports/env18/Climate-Action-in-Ontario.pdf</ref> He has also contributed articles to ''Electric Autonomy Canada'' on transportation policy.<ref>Electric Autonomy Canada. "Ensuring Canada's economic recovery is an environmental recovery." 6 July 2020. https://electricautonomy.ca/opinions/2020-07-06/canadas-economic-recovery-and-environmental-recovery/</ref> Poovanna has spoken at the Green Transportation Summit & Expo in the United States.<ref>The Forest Bean. "About Pete." 2025. https://theforestbean.com/pages/about-pete</ref>
+
+=== Environmental writing and entrepreneurship ===
+Poovanna has written about biodiversity conservation and agroforestry in Kodagu, including a contribution to Coorg Tourism’s feature on sacred groves.<ref>Coorg Tourism Info. "Sacred Groves of Coorg: How our faith is conserving nature and preserving culture." https://www.coorgtourisminfo.com/blog/sacred-groves-of-coorg-how-our-faith-is-conserving-nature-and-preserving-culture/</ref> He has also written about environmental impacts of coffee production for the ''Georgia Straight'' and about sustainable coffee consumption for ''HuffPost''.<ref>Georgia Straight. "The coffee economy booms, the Amazon forest vanishes. So what's the solution?" 24 June 2017. https://www.straight.com/news/928966/pete-poovanna-coffee-economy-booms-amazon-forest-vanishes-so-whats-solution</ref><ref>HuffPost. "Canadians Should Demand A More Eco-Friendly Cup Of Coffee." 24 July 2017. https://www.huffpost.com/author/pete-poovanna</ref> He is the founder of Forest Bean, a Vancouver-based coffee business that imports shade-grown Indian coffee and advocates for biodiversity-focused farming practices.<ref>Vancouver Guardian. "Homegrown Business: Angela Noguer of Forest Bean." 19 December 2022. https://vancouverguardian.com/vancouver-business-forest-bean/</ref>
+
+== Recognition and awards ==
+* Queen Elizabeth II Advanced Scholar – Award administered by Universities Canada and recognized by the Governor General of Canada.<ref>Universities Canada. "QES Inspiring Futures Scholars." 2022. https://univcan.ca/wp-content/uploads/2022/06/QES-Inspiring-Futures.pdf</ref>
+* Media Mentions – Mentioned in regional Canadian media, including ''Vancouver Is Awesome'', for participation in sustainability-related community events.<ref>Vancouver Is Awesome. "New West Greens launch speakers' series." 9 April 2019. https://www.vancouverisawesome.com/new-west-record-archive/new-west-greens-launch-speakers-series-3097254</ref>
+* KodavaClan – Listed among the “Eminent People of Kodagu” by the KodavaClan heritage publication.<ref>KodavaClan. "List of Eminent People of Kodagu." https://kodavaclan.com/kodaguheritage/category/eminent-people-kodava/</ref>
+
+== References ==
+<references />

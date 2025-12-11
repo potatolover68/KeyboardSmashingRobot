@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mwn": "^3.0.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node bot/index.js --env-file .env"
+  }
+}

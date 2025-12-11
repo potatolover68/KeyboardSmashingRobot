@@ -1,0 +1,81 @@
+{{AFC submission|d|ai|u=SquidX|ns=118|decliner=Monkeysmashingkeyboards|declinets=20251202230909|ts=20251009225008}} <!-- Do not remove this line! -->
+{{AFC submission|d|bio|u=SquidX|ns=118|decliner=Josedimaria|declinets=20250927063618|small=yes|ts=20250828222937}} <!-- Do not remove this line! -->
+{{AFC submission|d|ai|u=SquidX|ns=118|decliner=Qcne|declinets=20250828205344|small=yes|ts=20250824161222}} <!-- Do not remove this line! -->
+
+{{AFC comment|1=Contains references with "source=chatgpt.com" in the URL. I have made no judgement on the rest of the draft content, but since ChatGPT has been used in the creation of this draft you must read [[WP:LLM]] and carefully review all the content of the draft to check for hallucinations, unsubstantiated text, non-existent references. 
+If you are sure that no ChatGPT artefacts remain, you can re-submit this draft for review. <span style="background-color: RoyalBlue; border-radius: 1em; padding: 3px 3px 3px 3px;">'''[[User:Qcne|<span style="color: GhostWhite">qcne</span>]]''' <small>[[User talk:Qcne|<span style="color: GhostWhite">(talk)</span>]]</small></span> 20:53, 28 August 2025 (UTC)}}
+
+----
+
+{{Short description|Canadian musician}}
+{{Draft topics|biography|music}}
+{{AfC topic|blp}}
+
+<!-- Important, do not remove anything above this line before article has been created. -->
+
+{{Infobox musical artist
+| name        = Lou Pomanti
+| image       = 
+| caption     = 
+| birth_name  = 
+| birth_date  = 
+| birth_place = Weston, Toronto, Ontario, Canada
+| origin      = Toronto, Ontario, Canada
+| genre       = Jazz, funk, R&B, pop
+| occupation  = Composer, producer, keyboardist, musical director, arranger
+| instrument  = Piano, synthesizer, keyboard
+}}
+
+'''Lou Pomanti''' is a [[Canadian]] [[composer]], producer, [[keyboardist]], [[musical director]], and award-winning [[arrangement|arranger]], known for his work in [[jazz]], [[Pop music|pop]], [[television]] and [[film]], and for serving as musical director for major Canadian awards shows.<ref name="jazztimes">{{cite web |last1=Glassford |first1=Malcolmn |title=Lou Pomanti |url=https://jazztimes.com/artists/lou-pomanti/ |website=JazzTimes |date=12 March 2012 |access-date=24 August 2025}}</ref><ref name="torontostreet">{{cite web |title=Naming of Proposed Streets at 2277 to 2295 Sheppard Avenue West - Draft Plan of Subdivision |url=https://www.toronto.ca/legdocs/mmis/2009/ey/bgrd/backgroundfile-22964.pdf |page=7 |website=City of Toronto | date=26 August 2009|access-date=24 August 2025}}</ref><ref name="sheppard">{{cite web |last1=Rake |first1=Jamie Lee |title=Lou Pomanti & Friends By Lou Pomanti |url=https://shepherdexpress.com/music/album-reviews/lou-pomanti-friends-by-lou-pomanti/ |website=Sheppard Express |date=25 August 2022 |access-date=9 October 2025}}</ref><ref name="Yamaha">{{cite web |title=Lou Pomanti - Yamaha - Canada |url=https://ca.yamaha.com/en/artists/l/lou_pomanti.html |publisher=Yamaha Canada |accessdate=23 August 2025}}</ref><ref name="Billboard-interview">{{cite web |last1=King |first1=Bill |title=A Conversation with Musician and Producer Lou Pomanti |url=https://ca.billboard.com/a-conversation-with-musician-and-producer-lou-pomanti |publisher=Billboard Canada |access-date=23 August 2025}}</ref>
+
+==Early life==
+Pomanti was born and raised in the [[Weston, Toronto|Weston]] neighborhood of [[Toronto]]. He began studying piano as a youth, completed studies at the [[The Royal Conservatory of Music]], and later attended [[Humber Polytechnic|Humber College’s]] jazz program. 
+<ref name="Billboard-interview"/>
+
+==Career==
+In 1980 Pomanti joined [[David Clayton-Thomas]] on tour with [[Blood, Sweat & Tears]] and later produced Clayton-Thomas’s album "Soul Ballads". By the mid-1980s he was regularly engaged as a pianist, keyboardist, and arranger, contributing to recordings and performances by artists such as [[Anne Murray]], [[Gordon Lightfoot]], [[Triumph]], [[Jeff Healey]], [[Kim Mitchell]] and [[Marc Jordan]].<ref name="jazztimes"/><ref name="CoreMusic">{{cite web |title=Lou Pomanti |url=https://www.coremusicagency.com/roster/composers/lou-pomanti |publisher=Core Music Agency |accessdate=23 August 2025}}</ref><ref name="fuse">{{cite web |last1=Michie |first1=Allen |title=Album Review: Canadian Singer/Songwriter Marc Jordan — An Elegant Discovery |url=https://artsfuse.org/272799/album-review-canadian-singer-songwriter-marc-jordan-an-elegant-discovery/ |website=The Arts Fuse |date=11 May 2023 |access-date=9 October 2025}}</ref>
+
+Beginning in the 1990s Pomanti expanded into composing and arranging for television and film; his credits include work for [[CBC Television|CBC]], [[CTV Television Network|CTV]], [[Global Television Network|Global]] and other networks, and he has served repeatedly as musical director for the [[Gemini Awards]] (now part of the [[Canadian Screen Awards]]), the [[Genie Awards]], the [[Juno Awards]] and the [[Canadian Songwriters Hall of Fame]] ceremonies.<ref name="jazztimes"/><ref name="Billboard-interview"/>
+
+Pomanti arranged strings and horns on several [[Michael Bublé]] recordings (including work credited on ''[[Crazy Love (Michael Bublé album)|Crazy Love]]'') and has provided orchestral arrangements and production on many commercial recordings.<ref name="jazztimes"/><ref name="CoreMusic"/>
+
+Pomanti leads the Toronto-based horn ensemble Oakland Stroke and continues to perform, arrange and produce; he also released the collaborative album ''Lou Pomanti & Friends'' (2022).<ref name="JAZZFM91-1">{{cite web |title=Lou Pomanti's new album features all-star cast of Canadian talent |url=https://jazz.fm/lou-pomanti-and-friends-album-release/ |website=JAZZ.FM91 |date=26 April 2022 |accessdate=23 August 2025}}</ref>
+
+==Awards and honors==
+* 2007 Gemini Award (arranging/conducting) — Pomanti received a Gemini Award for his arrangement and conducting of [[Joni Mitchell|Joni Mitchell’s]] "[[Both Sides Now]]" during her Canadian Songwriters Hall of Fame induction.<ref name="jazztimes"/><ref name="torontostreet"/><ref name="Yamaha"/><ref name="Billboard-interview"/><ref name="CMS"/>
+* 2007 Gemini Award nomination (Best Performance or Host in a Variety Program or Series) - with Michael Bublé for the song "How About You?" for the series "Words to Music: The Songwriters Hall of Fame"<ref>{{cite news |last1=Bawden |first1=Jim |title=Live from Saskatchewan |url=https://www.thestar.com/entertainment/live-from-saskatchewan/article_33032a40-c2ce-5b03-b887-e21dd35a6e38.html |access-date=3 November 2025 |work=The Toronto Star |date=October 26, 2007}}</ref>
+* Multiple Gemini nominations and additional honors for his television and live-event work.<ref name="jazztimes"/><ref name="torontostreet"/><ref name="Yamaha"/><ref name="Billboard-interview"/>
+* In 2009, the City of Toronto approved naming a new street '''Lou Pomanti Street''' to honor his contributions to music. The street was subsequently listed in the official 2012 Toronto street index.<ref name="torontostreet"/><ref>{{cite web |title=Supplementary Report - Naming of Proposed Streets at 2277 to 2295 Sheppard Avenue West - Draft Plan of Subdivision |url=https://www.toronto.ca/legdocs/mmis/2009/cc/bgrd/backgroundfile-24002.pdf |website=City of Toronto | date=30 September 2009|access-date=24 August 2025}}</ref><ref>{{cite web |title=2012 Road Classification System – Etobicoke-York District Street Name Index |url=https://www.toronto.ca/wp-content/uploads/2017/11/9722-et_index.pdf |page=10 |website=City of Toronto | date=August 2013|access-date=24 August 2025}}</ref>
+
+==Discography==
+===Albums===
+* ''Welcome to the Boogaloo Lounge'' (2011).<ref name="JAZZFM91-1"/><ref>{{cite web |title=Welcome to the Boogaloo Lounge - Album by Lou Pomanti |url=https://music.apple.com/us/album/welcome-to-the-boogaloo-lounge/454389575 |publisher=Apple Music |accessdate=23 August 2025}}</ref>
+* ''Lou Pomanti & Friends'' (2022). Vesuvius Music.<ref name="JAZZFM91-1"/><ref>{{cite web |title=Lou Pomanti & Friends - Album by Lou Pomanti |url=https://music.apple.com/us/album/lou-pomanti-friends/1824558055 |publisher=Apple Music |accessdate=23 August 2025}}</ref>
+* ''Butterfly'' (2024) — collaboration with Robyn Black.<ref name="CMS">{{cite web |title=Lou Pomanti and Robyn Black |url=https://www.canadianmusicspotlight.com/lou-pomanti-and-robyn-black/ |website=Canadian Music Spotlight |date=31 March 2024 |access-date=24 August 2025}}</ref><ref>{{cite web |title=Butterfly - Album by Robyn Black and Lou Pomanti |url=https://music.apple.com/us/album/butterfly/1705148126 |publisher=Apple Music |accessdate=23 August 2025}}</ref>
+
+===Selected contributions===
+* Orchestration/arrangements on Michael Bublé's ''Crazy Love'' (selected tracks).<ref name="jazztimes"/><ref name="CoreMusic"/>
+* Producer/arranger for David Clayton-Thomas (''Soul Ballads'').<ref name="jazztimes"/><ref name="CoreMusic"/><ref name="CMS"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|690010}}
+* [https://loupomanti.com/ Official website — Lou Pomanti]
+* [https://www.oaklandstroke.ca/ Official website — Oakland Stoke]
+
+{{DEFAULTSORT:Pomanti, Lou}}
+
+{{Draft categories|
+[[:Category:Canadian Screen Award winning musicians]]
+[[:Category:Canadian male composers]]
+[[:Category:20th-century Canadian keyboardists]]
+[[:Category:21st-century Canadian keyboardists]]
+[[:Category:Canadian male jazz pianists]]
+[[:Category:Musicians from Toronto]]
+[[:Category:Humber Polytechnic alumni]]
+[[:Category:The Royal Conservatory of Music alumni]]
+[[:Category:Living people]]
+[[:Category:Year of birth missing (living people)]]
+}}

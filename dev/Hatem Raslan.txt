@@ -1,0 +1,17 @@
+{{Short description|Rewriting draft to fix WP:CITEKILL and WP:NPOV issues, using reliable sources only}}
+{{Draft topics|biography|northern-africa}}
+{{AfC topic|other}}
+{{AfC submission|||ts=20251208132014|u=RokaRoqa|ns=118}}
+{{Draft article}}
+
+'''Hatem Raslan''' (Arabic: حاتم رسلان) is an [[Egypt|Egyptian]] businessman and diplomat. He currently serves as the Ambassador at-Large for the Republic of [[The Gambia]], engaging in diplomatic missions to strengthen relations between The Gambia and Arab countries, particularly [[Egypt]].<ref name="DailyNews">{{cite web |last= |first= |date=2021-02-14 |title=Hatem Raslan discusses boosting Egyptian-Gambian relations |url=https://www.dailynewsegypt.com/2021/02/14/hatem-raslan-discusses-boosting-egyptian-gambian-relations/ |access-date=2025-12-08 |work=Daily News Egypt}}</ref> He is also the Chairman of the Raslan Group, a conglomerate with investments in agriculture, mining, and trade across Africa.<ref name="AlMasry">{{cite web |title=حاتم رسلان سفير جامبيا المتجول: مصر تعود لإفريقيا بقوة (Interview) |url=https://www.almasryalyoum.com/news/details/2547890 |access-date=2025-12-08 |work=Al-Masry Al-Youm |language=ar}}</ref>
+
+== Career and Diplomacy ==
+Raslan has been involved in fostering economic and diplomatic ties between Egypt and West African nations. In his capacity as Ambassador at-Large for The Gambia, he has worked on facilitating bilateral agreements and promoting investment opportunities.<ref name="DailyNews" />
+
+He has represented The Gambia in various official meetings with Egyptian officials, focusing on cooperation in sectors such as aviation, trade, and education. Raslan advocates for increasing the presence of Egyptian businesses in African markets.<ref name="SadaElbalad">{{cite web |title=Hatem Raslan: Egypt plays pivotal role in Africa |url=https://see.news/hatem-raslan-egypt-plays-pivotal-role-in-africa |access-date=2025-12-08 |work=Sada El-Balad English}}</ref>
+
+In addition to his diplomatic role, Raslan manages private sector investments through the Raslan Group.
+
+== References ==
+{{reflist}}

@@ -1,0 +1,9 @@
+{{AFC submission|d|corp|u=LaborHistoryFan|ns=118|decliner=ChrysGalley|declinets=20251202100532|ts=20250929171503}} <!-- Do not remove this line! -->
+{{AFC submission|d|v|u=FameTheCreator|ns=118|decliner=Dan arndt|declinets=20251105025552|ts=20251104225323}} <!-- Do not remove this line! -->
+{{AFC submission|d|ai|u=Coorgfirst|ns=118|demo=|decliner=Pythoncoder|declinets=20251201210923|ts=20251115102159}} <!-- Do not remove this line! -->
+
+{{AFC comment|1=foo bar
+{{really fuckin annoying template to parse}}
+
+{{nother really annoying template|{{two now|abc xyz foo bar}}}}
+}}
