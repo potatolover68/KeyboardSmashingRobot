@@ -1,3 +1,5 @@
+import { makeTimestampLookNiceAndReadableAndNotJustAGiantStringOfNumbers } from './helpers.js';
+
 function extractAFCSubmissionTemplates(body) {
   const results = [];
   const startRegex = /\{\{[Aa][Ff][Cc] submission\|/g;
@@ -47,10 +49,11 @@ function extractAFCSubmissionTemplates(body) {
     .map(template => {
       const tsMatch = template.match(/\|ts=(\d{14})\|?/);
       const timestamp = tsMatch ? parseInt(tsMatch[1], 10) : 0;
-      return { template, timestamp };
+      const readableTimestamp = tsMatch ? makeTimestampLookNiceAndReadableAndNotJustAGiantStringOfNumbers(tsMatch[1]) : 'unknown time';
+      return { template, timestamp, readableTimestamp };
     })
-    .sort((a, b) => b.timestamp - a.timestamp)
-    .map(({ template }) => template + '<!-- Do not remove this line! -->');
+    .sort((a, b) => b.timestamp - a.timestamp);
+    // .map(({ template }) => template + '<!-- Do not remove this line! -->'); will add in do not delete comment later
 }
 
 function extractAFCCommentTemplates(body) {
@@ -60,7 +63,7 @@ function extractAFCCommentTemplates(body) {
 
   while ((match = startRegex.exec(body)) !== null) {
     const startIndex = match.index;
-    let braceCount = 2; // We've matched {{
+    let braceCount = 1; // We've matched one pair {{
     let i = startIndex + match[0].length;
 
     // Walk through the string, counting braces
@@ -81,11 +84,60 @@ function extractAFCCommentTemplates(body) {
     }
   }
 
-  return results;
+  return results.map(template => ({ template }));
 }
+
+function RemoveAllAFCTemplates(body) {
+  let newBody = body;
+  const submissionTemplates = extractAFCSubmissionTemplates(body);
+  const commentTemplates = extractAFCCommentTemplates(body);
+  
+  submissionTemplates.forEach(item => {
+    newBody = newBody.replace(item.template, '');
+  });
+  commentTemplates.forEach(item=> {
+    newBody = newBody.replace(item.template, '');
+  });
+
+
+  // remove the do not remove comments
+  newBody = newBody.replace(/<!-- Do not remove this line! -->/gi, '');
+
+  // remove the weird section divider thingy
+  newBody = newBody.replace(/----/, '');
+
+  // Trim excess whitespace
+  newBody = newBody.replace(/\n{3,}/, '\n\n'); // excess whitespace is usually only produced by AFC comments, so no G flag should work
+
+  return newBody;
+}
+
+function prepareAFCTemplates(comments, submissions) {
+  let result = '';
+
+  submissions.forEach(item => {
+    result += item.template + '\n<!-- Do not remove this line! -->\n';
+  });
+
+  comments.forEach(item => {
+    result += item.template + '\n';
+  });
+
+  if (result.trim().length > 0) {
+    result = result.trim() + '<!-- EDIT BELOW THIS LINE -->\n----\n';
+  }
+
+  return result;
+}
+
+function appendAFCTemplatesToBody(body, comments, submissions) {
+  const preparedTemplates = prepareAFCTemplates(comments, submissions);
+  return preparedTemplates + body;
+}
+
 
 function HandleAFCTemplateDeletion(bot, page) {
   
 }
 
-export { HandleAFCTemplateDeletion, extractAFCSubmissionTemplates, extractAFCCommentTemplates };
+export { HandleAFCTemplateDeletion, extractAFCSubmissionTemplates, extractAFCCommentTemplates, RemoveAllAFCTemplates, appendAFCTemplatesToBody };
