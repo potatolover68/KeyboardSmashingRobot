@@ -4,7 +4,7 @@ import { getFirstNLines } from './helpers.js';
 import fs from 'fs';
 import path from 'path';
 
-const devDir = 'dev';
+const devDir = 'dev/drafts';
 const drafts = fs.readdirSync(devDir)
   .filter(file => file !== 'credits.txt')
   .map(file => path.join(devDir, file));
@@ -28,7 +28,7 @@ for (const draft of drafts) {
 
   console.log('\n--- Testing appendAFCTemplatesToBody ---');
   console.log('Re-adding templates to cleaned body...');
-  const reconstructed = appendAFCTemplatesToBody(cleaned, comments, submissions);
+  const reconstructed = appendAFCTemplatesToBody(body, comments, submissions);
   console.log('\nReconstructed (first 30 lines):');
   console.log(getFirstNLines(reconstructed, 30));
   console.log(`\nReconstructed length: ${reconstructed.length}`);

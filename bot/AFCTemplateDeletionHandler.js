@@ -132,7 +132,8 @@ function prepareAFCTemplates(comments, submissions) {
 
 function appendAFCTemplatesToBody(body, comments, submissions) {
   const preparedTemplates = prepareAFCTemplates(comments, submissions);
-  return preparedTemplates + body;
+  const cleanedBody = RemoveAllAFCTemplates(body);
+  return preparedTemplates + cleanedBody; 
 }
 
 
