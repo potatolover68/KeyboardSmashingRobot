@@ -1,5 +1,10 @@
 import { Mwn } from 'mwn';
 import dotenv from 'dotenv';
+import fs from 'fs';
+import { HandleAFCTemplateDeletion } from './AFCTemplateDeletionHandler.js';
+import { getNewFilterTrigger } from './helpers.js';
+
+const config = JSON.parse(fs.readFileSync('./config.json', 'utf8'));
 
 dotenv.config();
 
@@ -21,5 +26,23 @@ bot.setOptions({
     }
 });
 
+let lastFilterTrigger = null;
+
+
+setInterval(async () => {
+    const newFilterTrigger = await getNewFilterTrigger(bot, 1370, config.pollInterval +  config.pollIntervalSlack);
+    if (newFilterTrigger !== lastFilterTrigger) {
+        lastFilterTrigger = newFilterTrigger;
+        console.log(`New filter trigger found: ${newFilterTrigger}`);
+        try {
+            await HandleAFCTemplateDeletion(bot, newFilterTrigger, config.verbose, config.dryRun);
+        } catch (error) {
+            console.error(`Error restoring AFC templates: ${error}`);
+        }
+        if (config.verbose) {
+            console.log(`Successfully restored AFC templates to ${newFilterTrigger}`);
+        }
+    }
+}, config.pollInterval * 1000);
 
 export { bot };

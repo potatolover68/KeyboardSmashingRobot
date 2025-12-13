@@ -166,7 +166,6 @@ async function HandleAFCTemplateDeletion(bot, revid, verbose = false, dryRun = f
     return false;
   }
 
-
   verboseLog('\n \n \n ')
 
   const submissions = extractAFCSubmissionTemplates(oldrev.content);
@@ -177,12 +176,12 @@ async function HandleAFCTemplateDeletion(bot, revid, verbose = false, dryRun = f
   verboseLog(`New content: ${newContent}`);
 
   if (dryRun) {
-    console.log('\n=== 🥀 dry run ===');
+    console.log('\n=== dry run ===');
     console.log('\n--- Current page content (newrev) ---');
     console.log(newrev.content);
     console.log('\n--- Page content after AFC restoration ---');
     console.log(newContent);
-    console.log('\n=== 🥀 end dry run ===\n');
+    console.log('\n=== end dry run ===\n');
     return true;
   }
 

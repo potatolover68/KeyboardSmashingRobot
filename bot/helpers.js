@@ -73,6 +73,26 @@ function getFirstNLines(text, n) {
   return text.split('\n').slice(0, n).join('\n');
 }
 
+async function getNewFilterTrigger(bot, filterid, window) { 
+  const startTime = new Date(Date.now() - window * 1000).toISOString();
+  return await bot.request({
+    action: 'query',
+    list: 'abuselog',
+    aflfilter: filterid,
+    afllimit: 1,
+    aflstart: startTime,
+  }).then(result => {
+    const abuselog = result.query?.abuselog;
+    if (abuselog && abuselog.length > 0) {
+      return abuselog[0].revid;
+    }
+    return null;
+  }).catch(error => {
+    console.error(error);
+    return null;
+  });
+}
+
 function makeTimestampLookNiceAndReadableAndNotJustAGiantStringOfNumbers(timestamp) {
   // Parse YYYYMMDDHHMMSS format
   const str = timestamp.toString();
@@ -97,4 +117,4 @@ function makeTimestampLookNiceAndReadableAndNotJustAGiantStringOfNumbers(timesta
 }
 
 
-export {compareEdits, getRevisionContent, getPreviousRevisionId, getFirstNLines, makeTimestampLookNiceAndReadableAndNotJustAGiantStringOfNumbers};
+export {compareEdits, getRevisionContent, getPreviousRevisionId, getFirstNLines, getNewFilterTrigger, makeTimestampLookNiceAndReadableAndNotJustAGiantStringOfNumbers};
